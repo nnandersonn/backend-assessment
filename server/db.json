@@ -2,16 +2,19 @@
     {
         "id": 1,
         "title": "Ted Lasso",
-        "gifURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwave.video%2Fblog%2Fwp-content%2Fuploads%2F2020%2F10%2Fted-lasso-potential.gif&f=1&nofb=1"
+        "gifURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwave.video%2Fblog%2Fwp-content%2Fuploads%2F2020%2F10%2Fted-lasso-potential.gif&f=1&nofb=1",
+        "favorite": false
     },
     {
         "id": 2,
         "title": "Just Do It",
-        "gifURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fb7f0X8Okk1uyk%2Fsource.gif&f=1&nofb=1"
+        "gifURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fb7f0X8Okk1uyk%2Fsource.gif&f=1&nofb=1",
+        "favorite": false
     }, 
     {
         "id": 3,
         "title": "Stanley",
-        "gifURL": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-WYYF8OG3nqk%2FUFC52DElTVI%2FAAAAAAAAC3U%2FH8uvlvXwVQU%2Fw1200-h630-p-nu%2Fstanley-hudson-nodding.gif&f=1&nofb=1"
+        "gifURL": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-WYYF8OG3nqk%2FUFC52DElTVI%2FAAAAAAAAC3U%2FH8uvlvXwVQU%2Fw1200-h630-p-nu%2Fstanley-hudson-nodding.gif&f=1&nofb=1",
+        "favorite": false
     }
 ]

@@ -14,7 +14,8 @@ module.exports = {
         let newGIF = {
             id: globalID,
             title: title,
-            gifURL: gifURL
+            gifURL: gifURL,
+            favorite: false
         }
         gifs.push(newGIF)
         res.status(200).send(gifs)
@@ -22,7 +23,7 @@ module.exports = {
     },
 
     editGif: (req,res)=>{
-
+        
     },
 
     deleteGif: (req,res)=>{
