@@ -49,3 +49,4 @@ app.get("/api/fortune", (req,res)=>{
 
 app.get("/api/gifs", getGifs)
 app.post("/api/gifs", addGif)
+app.delete("/api/gifs/:id", deleteGif)

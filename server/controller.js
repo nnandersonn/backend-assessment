@@ -26,7 +26,10 @@ module.exports = {
     },
 
     deleteGif: (req,res)=>{
-
+        console.log("param id =", req.params.id)
+        let index = gifs.findIndex(gif => gif.id === +req.params.id)
+        gifs.splice(index+1, 1)
+        res.status(200).send(gifs)
     },
 
 
